@@ -1,6 +1,6 @@
 ### It's nice to see you ! 👋
 
-### Enterprise Profile
+### GitHub Enterprise Profile
 [Reyan @Symphonics](https://github.com/reyan-symphonics)
 
 ### CodinGame
