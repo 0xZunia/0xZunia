@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=0xZunia&label=Profile%20views&color=0e75b6&style=for-the-badge)
-
 ### It's nice to see you ! 👋
 
 ### [My GitHub Enterprise Profile](https://github.com/reyan-symphonics)
