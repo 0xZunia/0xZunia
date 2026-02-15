@@ -2,9 +2,6 @@
   <!-- Greeting -->
   <h1>It's nice to see you! 👋</h1>
 
-  <!-- GitHub Enterprise Profile -->
-  <h4><a href="https://github.com/reyan-symphonics">My GitHub Enterprise Profile</a></h4>
-
   <hr width="60%"/>
 
   <!-- CodinGame -->
