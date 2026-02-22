@@ -58,10 +58,6 @@
         <img src="https://github-readme-stats-one-bice.vercel.app/api?username=0xZunia&theme=gotham&show_icons=true&count_private=true&hide_border=true"
   height="170" alt="GitHub Stats"/>
       </a>
-      <a href="https://github.com/0xZunia?tab=stars">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xZunia&theme=gotham&layout=compact&hide_border=true" alt="Top Languages"
-  height="170"/>
-      </a>
     </p>
     <hr width="60%"/>
     <h2>Competitive Programming</h2>
