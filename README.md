@@ -1,46 +1,23 @@
-  <div align="center">
-
+<div align="center">
     <h1>0xZunia</h1>
-    <p><strong>Blockchain Engineer · .NET &amp; Systems Developer</strong></p>
-
-    <p>
-      Building <a href="https://github.com/Basalt-Foundation/basalt"><strong>Basalt</strong></a> — a high-performance Layer 1 blockchain on .NET 9 with Native
-   AOT compilation.
-    </p>
+    <p><strong>Blockchain Engineer &middot; .NET &amp; Systems Developer</strong></p>
+    <p>Building <a href="https://github.com/Basalt-Foundation/basalt"><strong>Basalt</strong></a> — a high-performance Layer 1 blockchain on .NET 9 with
+  Native AOT compilation.</p>
 
     <hr width="60%"/>
 
-    <!-- Basalt -->
     <h2>Basalt</h2>
-    <p>
-      <a href="https://basalt.foundation">basalt.foundation</a> · <a href="https://github.com/Basalt-Foundation/basalt">Source</a>
-    </p>
+    <p><a href="https://basalt.foundation">basalt.foundation</a> &middot; <a href="https://github.com/Basalt-Foundation/basalt">Source</a></p>
     <table align="center">
-      <tr>
-        <td><strong>Consensus</strong></td>
-        <td>Pipelined BFT with weighted leader selection and epoch-based validator rotation</td>
-      </tr>
-      <tr>
-        <td><strong>Smart Contracts</strong></td>
-        <td>C# SDK with source-generated AOT-safe dispatch — no reflection</td>
-      </tr>
-      <tr>
-        <td><strong>Crypto</strong></td>
-        <td>BLAKE3 hashing, Ed25519 signatures, BLS12-381 aggregation</td>
-      </tr>
-      <tr>
-        <td><strong>Compliance</strong></td>
-        <td>ZK proofs (Groth16), on-chain KYC, EVM bridge with multisig relayers</td>
-      </tr>
-      <tr>
-        <td><strong>Scale</strong></td>
-        <td>30-project solution, 2,300+ tests, 0 build warnings</td>
-      </tr>
+      <tr><td><strong>Consensus</strong></td><td>Pipelined BFT with weighted leader selection and epoch-based validator rotation</td></tr>
+      <tr><td><strong>Smart Contracts</strong></td><td>C# SDK with source-generated AOT-safe dispatch — no reflection</td></tr>
+      <tr><td><strong>Crypto</strong></td><td>BLAKE3 hashing, Ed25519 signatures, BLS12-381 aggregation</td></tr>
+      <tr><td><strong>Compliance</strong></td><td>ZK proofs (Groth16), on-chain KYC, EVM bridge with multisig relayers</td></tr>
+      <tr><td><strong>Scale</strong></td><td>30-project solution, 2,300+ tests, 0 build warnings</td></tr>
     </table>
 
     <hr width="60%"/>
 
-    <!-- Tech Stack -->
     <h2>Stack</h2>
     <table align="center">
       <tr>
@@ -66,57 +43,37 @@
 
     <hr width="60%"/>
 
-    <!-- GitHub Stats -->
     <h2>GitHub</h2>
     <p>
-      <a href="https://github.com/0xZunia?tab=repositories">
-        <img src="https://github-readme-stats-one-bice.vercel.app/api?username=0xZunia&theme=gotham&show_icons=true&count_private=true&hide_border=true"
-  height="170" alt="GitHub Stats"/>
-      </a>
-      <a href="https://github.com/0xZunia?tab=stars">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xZunia&theme=gotham&layout=compact&hide_border=true" alt="Top Languages"
-  height="170"/>
-      </a>
+      <a href="https://github.com/0xZunia?tab=repositories"><img
+  src="https://github-readme-stats-one-bice.vercel.app/api?username=0xZunia&theme=gotham&show_icons=true&count_private=true&hide_border=true" height="170"
+  alt="GitHub Stats"/></a>
+      <a href="https://github.com/0xZunia?tab=stars"><img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xZunia&theme=gotham&layout=compact&hide_border=true" alt="Top Languages"
+  height="170"/></a>
     </p>
 
     <hr width="60%"/>
 
-    <!-- Competitive Programming -->
     <h2>Competitive Programming</h2>
-    <p>
-      <a href="https://www.codingame.com/profile/7838f621919df50d987ba5c878885e8e4547384">CodinGame Profile</a>
-    </p>
+    <h4><a href="https://www.codingame.com/profile/7838f621919df50d987ba5c878885e8e4547384">CodinGame Profile</a></h4>
     <table align="center">
-      <tr>
-        <td>🥇 <strong>Top 1 Lua</strong> · Rank 223/1758</td>
-        <td><a href="https://www.codingame.com/contests/green-circle">Green Circle (Société Générale)</a></td>
-      </tr>
-      <tr>
-        <td>🥇 <strong>Top 1 Lua</strong> · Rank 429/4577</td>
-        <td><a href="https://www.codingame.com/contests/fall-challenge-2022">Fall Challenge 2022</a></td>
-      </tr>
-      <tr>
-        <td>🥈 <strong>Top 2 Lua</strong> · Rank 400/7965</td>
-        <td><a href="https://www.codingame.com/contests/spring-challenge-2022">Spring Challenge 2022</a></td>
-      </tr>
+      <tr><td>🥇 <strong>Top 1 Lua</strong> &middot; Rank 223/1758</td><td><a href="https://www.codingame.com/contests/green-circle">Green Circle (Société
+  Générale)</a></td></tr>
+      <tr><td>🥇 <strong>Top 1 Lua</strong> &middot; Rank 429/4577</td><td><a href="https://www.codingame.com/contests/fall-challenge-2022">Fall Challenge
+  2022</a></td></tr>
+      <tr><td>🥈 <strong>Top 2 Lua</strong> &middot; Rank 400/7965</td><td><a href="https://www.codingame.com/contests/spring-challenge-2022">Spring Challenge
+   2022</a></td></tr>
     </table>
 
     <hr width="60%"/>
 
-    <!-- Languages -->
     <h2>Languages</h2>
     <table align="center">
       <tr>
-        <td align="center" width="100">
-          <img src="https://flagicons.lipis.dev/flags/4x3/fr.svg" width="50" height="50" /><br/>French (Native)
-        </td>
-        <td align="center" width="100">
-          <img src="https://flagicons.lipis.dev/flags/4x3/us.svg" width="45" height="45" /><br/>English (C1)
-        </td>
-        <td align="center" width="100">
-          <img src="https://flagicons.lipis.dev/flags/4x3/es.svg" width="45" height="45" /><br/>Spanish (Basic)
-        </td>
+        <td align="center" width="100"><img src="https://flagicons.lipis.dev/flags/4x3/fr.svg" width="50" height="50" /><br/>French (Native)</td>
+        <td align="center" width="100"><img src="https://flagicons.lipis.dev/flags/4x3/us.svg" width="45" height="45" /><br/>English (C1)</td>
+        <td align="center" width="100"><img src="https://flagicons.lipis.dev/flags/4x3/es.svg" width="45" height="45" /><br/>Spanish (Basic)</td>
       </tr>
     </table>
-
   </div>
